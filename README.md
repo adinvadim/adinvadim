@@ -1,7 +1,3 @@
-# Вадим Костин
-
-Предприниматель и разработчик. Больше десяти лет делаю продукты: от ERP для крупного бизнеса до AI-разборов звонков для [medivey.ru](https://medivey.ru). Сейчас почти всё, что пишу, рассчитано на работу вместе с агентами — CLI, skills и инфраструктура, которыми агент пользуется сам.
-
 ## Сейчас
 
 Активно работаю над двумя продуктами.
@@ -28,11 +24,3 @@
 - **[beget-cli](https://github.com/adinvadim/beget-cli)** — Beget: аккаунт, домены, DNS, почта, MySQL, сайты, бэкапы и Cloud VPS
 - **[reg-ru-cli](https://github.com/adinvadim/reg-ru-cli)** — REG.RU: CloudVPS, S3, биллинг, поддержка
 - **[nic-cli](https://github.com/adinvadim/nic-cli)** — NIC.RU / RU-CENTER: зоны и DNS-записи, commit/rollback, DNS-01
-
-## Ещё CLI
-
-- **[ai-cli](https://github.com/adinvadim/ai-cli)** — картинки, видео и текст из терминала
-- **[marketcall-cli](https://github.com/adinvadim-dev/marketcall-cli)** — Marketcall: звонки, офферы, записи разговоров
-- **[uis-cli](https://github.com/adinvadim-dev/uis-cli)** — UIS / коллтрекинг
-
-Сайт: [adinvadim.ru](https://adinvadim.ru)
